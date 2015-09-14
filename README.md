@@ -17,7 +17,7 @@ Ma devise:
 #Formation
 
 * Je suis en classe de 5ème
-* J'ai fait des stages d'immertion en anglais
+* J'ai fait des stages d'immertions en anglais
 * Je parle Breton
 
 ##Pourquoi je suis sur Simplonline?

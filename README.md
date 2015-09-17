@@ -3,7 +3,7 @@
 
 ##Présentation
 
-je m'appelle _Guillaume_ et j'ai *11 ans*
+je m'appelle _Guillaume_ et j'ai 11 ans
 
 Ma devise: 
 

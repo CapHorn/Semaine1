@@ -25,7 +25,7 @@ Ma devise:
 
 Pour jouer à Game of Codes avec mon papa
 
-##les gens qui sont cons
+#les gens qui sont cons
 
 * Guy ne sait RIEN faire
 * Laurie est une GROSSE Conne

@@ -19,6 +19,7 @@ Ma devise:
 * Je suis en classe de 5ème
 * J'ai fait des stages d'immertions en anglais
 * Nous au moins on sait jouer à minecraft
+* On n'est pas cons
 
 ##Pourquoi je suis sur Simplonline?
 

@@ -18,7 +18,7 @@ Ma devise:
 
 * Je suis en classe de 5ème
 * J'ai fait des stages d'immertions en anglais
-* Je parle Breton
+* Nous au moins on sait jouer à minecraft
 
 ##Pourquoi je suis sur Simplonline?
 

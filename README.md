@@ -18,14 +18,10 @@ Ma devise:
 
 * Je suis en classe de 5ème
 * J'ai fait des stages d'immertions en anglais
-* Nous au moins on sait jouer à minecraft
-* On n'est pas cons
+* Je parle Breton
 
 ##Pourquoi je suis sur Simplonline?
 
 Pour jouer à Game of Codes avec mon papa
 
-#les gens qui sont cons
-
-* Guy ne sait RIEN faire
-* Faustin est un branleur dans tout les sens du terme
+> miaou 

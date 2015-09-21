@@ -17,11 +17,12 @@ Ma devise:
 #Formation
 
 * Je suis en classe de 5ème
-* J'ai fait des stages d'immertions en anglais
+* J'ai fait des stages d'immertion en anglais
 * Je parle Breton
 
 ##Pourquoi je suis sur Simplonline?
 
 Pour jouer à Game of Codes avec mon papa
+Et comme ça, je pourrai aider ma maman quand elle fait de la Business Intelligence
 
 > miaou 

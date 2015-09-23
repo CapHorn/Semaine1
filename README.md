@@ -17,7 +17,7 @@ Ma devise:
 
 #Formation
 
-* Diplome d'études supérieurs de la marine marchande
+* Diplome d'études supérieures de la marine marchande
 * HEC
 
 ##Pourquoi je suis sur Simplonline?
